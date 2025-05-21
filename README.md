@@ -1,2 +1,5 @@
 # Hi everyone, my name is Zasty, I am a Russian developer who makes shitty projects!
-## My guns: https://guns.lol/zastyk
+## Socials 
+guns: https://guns.lol/zastyk
+discord: zastyk999
+steam: https://steamcommunity.com/id/zastyk
