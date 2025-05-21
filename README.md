@@ -7,4 +7,4 @@ steam: **https://steamcommunity.com/id/zastyk**
 
 discord: **zastyk999**
 
-##⚠️ **Attention:** Scary place
+##**⚠️ Attention:** Scary place
