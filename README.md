@@ -3,8 +3,8 @@
 ## Socials 
 guns: **https://guns.lol/zastyk**
 
-discord: **zastyk999**
-
 steam: **https://steamcommunity.com/id/zastyk**
+
+discord: **zastyk999**
 
 
