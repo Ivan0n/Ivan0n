@@ -8,4 +8,4 @@ steam: **https://steamcommunity.com/id/zastyk**
 discord: **zastyk999**
 
 ---
-AmonitaTEDGER
+I love you Amonita.
