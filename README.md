@@ -7,5 +7,4 @@ steam: **https://steamcommunity.com/id/zastyk**
 
 discord: **zastyk999**
 
----
-## I love you Amonita.
+
