@@ -5,6 +5,5 @@ guns: **https://guns.lol/zastyk**
 
 steam: **https://steamcommunity.com/id/zastyk**
 
-discord: **zastyk999**
 
 
